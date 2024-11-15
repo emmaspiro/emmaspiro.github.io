@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Dr. Peaks Krafft
     align: right
-    image: 
+    image: krafft.jpg
     position:  Lecturer, Computational Sociology
     email: 
     website: https://www.sps.ed.ac.uk/staff/p-m-krafft
