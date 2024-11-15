@@ -22,9 +22,13 @@
   - firstname: ["Izzi", "I.","I"]
     url: https://scholar.google.com/citations?user=YC0X7NIAAAAJ&hl=en
     
-"ian":
+"kennedy":
   - firstname: ["Ian", "I.","I"]
     url: https://www.ian-kennedy.com/
+
+"krafft":
+  - firstname: ["Peaks", "P.","P"]
+    url: https://www.sps.ed.ac.uk/staff/p-m-krafft/
      
 "register":
   - firstname: ["Yim", "Y.","Y"]
